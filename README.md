@@ -1,6 +1,6 @@
-# Hello....
+# hello....
 
-hashing-dehashing tool...#
+hashing and dehashing tool...#
 
 
 
