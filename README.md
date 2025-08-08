@@ -1,4 +1,4 @@
-# 🔐 Universal Hash Encrypt & Decrypt Tool (Python)
+# Universal Hash Encrypt & Decrypt Tool (Python)  🔐
 
 A powerful Python-based toolkit for hash generation and hash recovery that supports all major hash algorithms.
 Built for developers, cybersecurity learners, and penetration testers, this tool lets you quickly create hashes for any text and attempt to recover them using wordlists or brute-force methods.
