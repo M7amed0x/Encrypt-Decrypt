@@ -1,4 +1,4 @@
-# Universal Hash Encrypt & Decrypt Tool (Python)  🔐
+# 🔐 Universal Hash Encrypt & Decrypt Tool (Python)
 
 A simple yet powerful Python-based tool for converting text into hashes and attempting to recover the original text from a given hash.  
 Perfect for developers, cybersecurity learners, and penetration testers who need quick hashing and recovery capabilities in a lightweight package.
